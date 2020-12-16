@@ -1,2 +1,2 @@
 # DevSplashScreen-Android
-Splash Screen app example for android.
+Splash Screen example app for android.
